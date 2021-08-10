@@ -52,7 +52,7 @@ Open the thread you wish to join and press the join button.
 
 On desktop and browser app you can leave a thread by right clicking the thread or you can press the three dots and selecting leave thread when you are current viewing a thread. <br />
 ![image](/images/leaveThreadDesktop1.png) <br />
-![image](/images/leaveThreadDesktop2.png) <br />
+![image](/images/leaveThreadDesktop2.png) <br /> <br />
 
 On mobile you can leave a thread by long pressing the thread and selecting leave thread
 ![image](/images/leaveThreadDesktop2.png)
