@@ -6,9 +6,9 @@
 ## How to create a thread
 
 First open the Thread Discovery menu. <br /> 
-On Mobile press the plus button in the top right. <br /> <br />
+On Mobile press the plus button in the top right. <br />
 ![image](/images/createThreadMobile.png) <br /> <br />
-On desktop and browser app press the create button on the top of the thread popout or the plus icon on the digital keyboard. <br /> <br />
+On desktop and browser app press the create button on the top of the thread popout or the plus icon on the digital keyboard. <br />
 ![image](/images/desktopCreateThread1.png) <br />
 ![image](/images/desktopCreateThread2.png) <br /> <br />
 You will be shown some options: *THREAD NAME*, *STARTER MESSAGE*, and *ARCHIVE AFTER INACTIVITY*. <br />
