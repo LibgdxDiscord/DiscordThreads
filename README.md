@@ -34,9 +34,9 @@ This is the length of inactivity the thread must have before it is automatically
 
 On desktop and browser app there are a few ways to view active threads. 
 You can click the Active Threads channel at the top of the channels ui. <br />
-![image](/images/viewThreads2.png) <br />
+![image](/images/viewActiveThreads2.png) <br />
 You can hover your mouse over a specific channel to view all of its active threads(Only unjoined threads will show)
-![image](/images/viewThread1.png)
+![image](/images/viewActiveThreads1.png)
 
 Or use the universal way by opening the thread menu from a specific channel.
 ![image]()
