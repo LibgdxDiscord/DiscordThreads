@@ -10,7 +10,7 @@ On Mobile press the plus button in the top right. <br />
 ![image](/images/createThreadMobile.png) <br />
 On desktop and browser app press the create button on the top of the thread popout or the plus icon on the digital keyboard. <br / >
 ![image](/images/desktopCreateThread1.png) <br />
-![image](/images/desktopCreateThread2.png) <br / >
+![image](/images/desktopCreateThread2.png) <br />
 You will be shown some options: *THREAD NAME*, *STARTER MESSAGE*, and *ARCHIVE AFTER INACTIVITY*.
 ![image]()
 
