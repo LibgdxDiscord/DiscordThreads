@@ -1,7 +1,7 @@
 # Threads 101
 
 ## Opening the Thread Discovery menu
-![image]()
+![image](/images/threadDiscovery.png)
 
 ## How to create a thread
 
