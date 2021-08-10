@@ -55,4 +55,4 @@ On desktop and browser app you can leave a thread by right clicking the thread o
 ![image](/images/leaveThreadDesktop2.png) <br /> <br />
 
 On mobile you can leave a thread by long pressing the thread and selecting leave thread <br />
-![image](/images/leaveThreadDesktop2.png)
+![image](/images/leaveThreadMobile.png)
