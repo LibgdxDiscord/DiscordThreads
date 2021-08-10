@@ -14,19 +14,19 @@ On desktop and browser app press the create button on the top of the thread popo
 You will be shown some options: *THREAD NAME*, *STARTER MESSAGE*, and *ARCHIVE AFTER INACTIVITY*. <br />
 ![image](/images/threadOptions.png)
 
-#### *Thread Name*
+### *Thread Name*
 
 The thread name is where you give a discriptive title of what the thread is about. 
 For example: If you wanted to create a thread to look for musicians you can name it something like "Looking for musicians". 
 Another example would be if you're creating a thread for the help channel, you would try to sum up your problem into one sentence so people have an idea of what you need.
 
-#### *Starter Message*
+### *Starter Message*
 
 The starter message is where you can give a general message or explanation of your thread. 
 If you're creating a thread for the help channel make sure to explain you problem in more detail. 
 If you need to upload files or images this can be done after the thread has been created.
 
-#### *Archive After Inactivity*
+### *Archive After Inactivity*
 
 This is the length of inactivity the thread must have before it is automatically archived. Your options are 1 hour, 24 hours, or 3 days. 
 
