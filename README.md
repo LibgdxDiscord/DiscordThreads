@@ -38,13 +38,11 @@ You can click the Active Threads channel at the top of the channels ui. <br />
 You can hover your mouse over a specific channel to view all of its active threads(Only unjoined threads will show) <br />
 ![image](/images/viewActiveThreads1.png) 
 
-Or use the universal way by opening the thread menu from a specific channel.
-![image]()
+Or use the universal way by opening the Thread Discovery menu from a specific channel.
 
 ## Viewing Archived Threads
 
-To view an archived thread press the thread discovery button in a specific channel and select the archive button.
-![image]()
+To view an archived thread press the Thread Discovery button in a specific channel and select the archive button.
 
 ## Joining A Thread
 
@@ -52,7 +50,7 @@ Open the thread you wish to join and press the join button.
 
 ## Leaving A Thread
 
-On desktop and browser app you can leave a thread by right clicking the thread or you can press the three dots and selecting leave thread
+On desktop and browser app you can leave a thread by right clicking the thread or you can press the three dots and selecting leave thread when you are current
 ![image]()
 ![image]()
 
