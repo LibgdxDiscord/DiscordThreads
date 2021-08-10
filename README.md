@@ -11,8 +11,8 @@ On Mobile press the plus button in the top right. <br />
 On desktop and browser app press the create button on the top of the thread popout or the plus icon on the digital keyboard. <br / >
 ![image](/images/desktopCreateThread1.png) <br />
 ![image](/images/desktopCreateThread2.png) <br />
-You will be shown some options: *THREAD NAME*, *STARTER MESSAGE*, and *ARCHIVE AFTER INACTIVITY*.
-![image]()
+You will be shown some options: *THREAD NAME*, *STARTER MESSAGE*, and *ARCHIVE AFTER INACTIVITY*. <br />
+![image](/images/threadOptions.png)
 
 #### *Thread Name*
 
@@ -33,10 +33,10 @@ This is the length of inactivity the thread must have before it is automatically
 ## Viewing Active Threads
 
 On desktop and browser app there are a few ways to view active threads. 
-You can click the Active Threads channel at the top of the channels ui.
-![image]()
+You can click the Active Threads channel at the top of the channels ui. <br />
+![image](/images/viewThreads2.png) <br />
 You can hover your mouse over a specific channel to view all of its active threads(Only unjoined threads will show)
-![image]()
+![image](/images/viewThread1.png)
 
 Or use the universal way by opening the thread menu from a specific channel.
 ![image]()
