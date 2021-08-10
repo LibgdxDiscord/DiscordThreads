@@ -5,7 +5,7 @@
 
 ## How to create a thread
 
-Open the Thread Discovery menu.
+First open the Thread Discovery menu.
 On Mobile press the plus button in the top right. 
 ![image]()
 On desktop and browser app press the create button on the top of the thread popout or the plus icon on the digital keyboard.
